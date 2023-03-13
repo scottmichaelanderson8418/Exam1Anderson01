@@ -2,8 +2,8 @@ package exam1anderson;
 
 import java.util.Scanner;
 public class Exam1Anderson {
-	public static void main(String[] args) {
-//Hi Scott Good Job! POOOP
+	public static void main(String[] argjs) {
+//Hi Scott Good Job! POOOPjjjjjjjjjj
 		// declare and initialize variables
 		// holds the base fee
 		double baseFee = 5.99;
