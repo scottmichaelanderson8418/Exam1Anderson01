@@ -3,7 +3,7 @@ package exam1anderson;
 import java.util.Scanner;
 public class Exam1Anderson {
 	public static void main(String[] args) {
-//Hi Scott Good Job!
+//Hi Scott Good Job! POOOP
 		// declare and initialize variables
 		// holds the base fee
 		double baseFee = 5.99;
